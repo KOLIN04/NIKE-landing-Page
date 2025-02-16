@@ -1,1 +1,2 @@
-https://kolin04.github.io/NIKE-landing-Page/
+Project Live Demo:
+    https://kolin04.github.io/NIKE-landing-Page/
